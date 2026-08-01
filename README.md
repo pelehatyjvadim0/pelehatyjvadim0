@@ -15,4 +15,5 @@
   ## 📫 Contact
 
   - Location: Sochi, Russia · Remote
+  - Telegram: [@sorrow9](https://t.me/sorrow9)
   - GitHub: [@pelehatyjvadim0](https://github.com/pelehatyjvadim0)
